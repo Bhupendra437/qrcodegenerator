@@ -1,0 +1,2 @@
+# qrcodegenerator
+assignment7
